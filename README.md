@@ -58,14 +58,14 @@
 
 <body onclick="changeVibe()">
   <div class="container">
-  <img id="vibeImage" src="img/WhatsApp Image 2026-01-20 at 21.00.37 (3).jpeg" alt="vibe image" />
+  <img id="vibeImage" src="WhatsApp Image 2026-01-20 at 21.00.37 (3).jpeg" alt="vibe image" />
   <h1 id="phrase">FELIZ MES MI AMOR ❤️ </h1>
 </div>
 
 
 <script>
   const phrases = [
-    "Soy la más feliz a tu lado\n\n Aprendería todos los idiomas con tal de entendernos\namarnos toda la vida\nAmores Eternos\nConfianza genuina",
+    "Soy la más feliz a tu lado,\n\n Aprendería todos los idiomas con tal de entendernos\nY amarnos toda la vida\nSomos amores Eternos,\nAmo nuestra confianza genuina",
     "Te amo mi niño precioso",
     "Feliz 20 mi cielito",
     "´Después de todo, qué gusto estar vivos, y juntos´",
@@ -75,14 +75,14 @@
   ];
 
   const images = [
-    "img/WhatsApp Image 2026-01-20 at 21.00.37 (3).jpeg",
-    "img/WhatsApp Image 2026-01-20 at 21.00.37 (2).jpeg",
-    "img/WhatsApp Image 2026-01-20 at 21.00.37 (1).jpeg",
-    "img/WhatsApp Image 2026-01-20 at 21.00.37.jpeg",
-    "img/WhatsApp Image 2026-01-20 at 21.00.36 (1).jpeg",
-    "img/WhatsApp Image 2026-01-20 at 21.00.36.jpeg",
-    "img/WhatsApp Image 2026-01-20 at 21.00.35 (3).jpeg",
-    "img/WhatsApp Image 2026-01-20 at 21.00.35 (1).jpeg"
+    "WhatsApp Image 2026-01-20 at 21.00.37 (3).jpeg",
+    "WhatsApp Image 2026-01-20 at 21.00.37 (2).jpeg",
+    "WhatsApp Image 2026-01-20 at 21.00.37 (1).jpeg",
+    "WhatsApp Image 2026-01-20 at 21.00.37.jpeg",
+    "WhatsApp Image 2026-01-20 at 21.00.36 (1).jpeg",
+    "WhatsApp Image 2026-01-20 at 21.00.36.jpeg",
+    "WhatsApp Image 2026-01-20 at 21.00.35 (3).jpeg",
+    "WhatsApp Image 2026-01-20 at 21.00.35 (1).jpeg"
 
   ];
 
