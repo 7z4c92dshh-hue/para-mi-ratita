@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <link rel="icon" type="image/png" href="img/1.JPG">
+   <link rel="icon" type="image/png" href="1.JPG">
   <title>unclick+</title>
 
   <style>
@@ -70,7 +70,7 @@
     "Feliz 20 mi cielito",
     "´Después de todo, qué gusto estar vivos, y juntos´",
     "Te quiero con la eternidad que concede la brevedad de un momento inolvidable.",
-    "¡Sin duda amarte es lo que quiero hacer toda la vida",
+    "Sin duda amarte es lo que quiero hacer toda la vida",
     "Eres mi hilo rojo, el de todas mis vidas"
   ];
 
