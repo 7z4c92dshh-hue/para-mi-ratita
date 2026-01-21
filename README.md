@@ -58,7 +58,7 @@
 
 <body onclick="changeVibe()">
   <div class="container">
-  <img id="vibeImage" src="img/1.jpeg" alt="vibe image" />
+  <img id="vibeImage" src="img/WhatsApp Image 2026-01-20 at 21.00.37 (3).jpeg" alt="vibe image" />
   <h1 id="phrase">FELIZ MES MI AMOR ❤️ </h1>
 </div>
 
@@ -75,14 +75,14 @@
   ];
 
   const images = [
-    "img/1.JPG",
-    "img/2.jpeg",
-    "img/3.jpeg",
-    "img/4.jpeg",
-    "img/5.jpeg",
-    "img/6.jpg",
-    "img/7.JPG",
-    "img/8.jpeg"
+    "img/WhatsApp Image 2026-01-20 at 21.00.37 (3).jpeg",
+    "img/WhatsApp Image 2026-01-20 at 21.00.37 (2).jpeg",
+    "img/WhatsApp Image 2026-01-20 at 21.00.37 (1).jpeg",
+    "img/WhatsApp Image 2026-01-20 at 21.00.37.jpeg",
+    "img/WhatsApp Image 2026-01-20 at 21.00.36 (1).jpeg",
+    "img/WhatsApp Image 2026-01-20 at 21.00.36.jpeg",
+    "img/WhatsApp Image 2026-01-20 at 21.00.35 (3).jpeg",
+    "img/WhatsApp Image 2026-01-20 at 21.00.35 (1).jpeg"
 
   ];
 
